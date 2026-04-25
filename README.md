@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./tmp/Animation.gif" width="100%" alt="ThreadLine Banner" />
+  <img src="https://github.com/kavya-dev05/ThreadLine/raw/main/tmp/Animation.gif" width="100%" alt="ThreadLine Banner" />
 </p>
-
 <div align="center">
 
 [![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
@@ -16,10 +15,6 @@ It exists in the intersection of data privacy and massive intelligence reconnais
 ---
 
 ## ⚡ CORE CAPABILITIES
-
-<p align="center">
-  <img src="./tmp/icons.png" width="80%" alt="Feature Icons" />
-</p>
 
 - **INTEL SEARCH**: Deterministic breach scanning using local intelligence datasets and k-anonymity protocols. Your queries never leave the void.
 - **DOMAIN RECON**: Deep extraction of WHOIS, DNS records, and SSL certificates to map infrastructure footprints.
